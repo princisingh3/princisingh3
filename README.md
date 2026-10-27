@@ -75,12 +75,9 @@ A weather information web application.
 
 ---
 
-📊 GitHub Statistics
+📊 GitHub Statistic 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=princisingh3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princisingh3&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most Used Languages"/><br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=princisingh3&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/></div>---
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=princisingh3&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princisingh3&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages"/><img src="https://streak-stats.demolab.com/?user=princisingh3&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/></div>
 🎯 Current Goals
 
 - 📘 Improve Data Structures and Algorithms.
