@@ -102,6 +102,8 @@ A weather information web application.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F0FF,100:0D1117&height=100&section=footer" width="100%" alt="Footer Banner"/>Thanks for visiting my profile! 💙
+<img src="https://github-readme-stats.vercel.app/api?username=princisingh3&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+
+Thanks for visiting my profile! 💙
 
 </div>
